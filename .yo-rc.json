@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.bq1028.con2oracle",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "Oracleapp",
+    "packageName": "com.bq1028.con2oracle",
+    "packageFolder": "com/bq1028/con2oracle",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmU0MWFiMDExZjE1MzE3Yjc4YzJlYWVkZGZkNzUyZWEzZmZhYmQzMjY0NGQwMjlmMTczMjc2MTk4ZjEzN2ZiNjcyM2I5ZDQ4YTdlNjcwZGE1YTI0ZjVkZTMyYjJlMzIwODhjNzJlOWU1MGE0YjcxN2JmODJjMTMwMDU3MjZkYTk=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn",
+      "en"
+    ]
+  }
+}
